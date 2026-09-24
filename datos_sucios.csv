@@ -1,0 +1,5 @@
+id, nombre, email, edad, ciudad
+1, Juan Perez, juan@email.com, 28, Madrid
+2, Ana Gomez, , 35, Buenos Aires
+3, Luis Alberto, luis@email.com, ,
+4, Marta Rios, marta@email.com, 42, Medellín
