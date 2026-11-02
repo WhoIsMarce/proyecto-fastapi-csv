@@ -1,7 +1,8 @@
-id, nombre, email, edad, ciudad
-1, Pepito Perez, pepito@email.com, 45, Madrid
+ID, Nombre Completo, Email, Edad, Ciudad
+1, Juan Perez, juan@email.com, 28, Madrid
 2, Ana Gomez, , 35, Buenos Aires
 3, Luis Alberto, luis@email.com, ,
 4, Marta Rios, marta@email.com, 42, Medellín
-5, Ana Gomez, , 35, Buenos Aires
-6,   Sofia Diaz   , sofia@email.com,  31  , Montevideo
+,,,,
+2, Ana Gomez, , 35, Buenos Aires
+5,   Sofia Diaz   , sofia@email.com,  31  , Montevideo
