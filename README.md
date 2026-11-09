@@ -179,4 +179,5 @@ Dockerfile              python:3.12-slim, runs as a non-root user
 
 ---
 
+[Article: What My FastAPI CSV Upload Service Got Wrong: Four Bugs the Test Suite Never Caught](https://dev.to/whoismarce/what-my-fastapi-csv-upload-service-got-wrong-four-bugs-the-test-suite-never-caught-l1k)
 Developed by [Marcela Zapata Vanegas](https://www.linkedin.com/in/marcelazapatavanegas/), technical writer and full stack developer.
